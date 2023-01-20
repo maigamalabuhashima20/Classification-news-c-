@@ -1,0 +1,53 @@
+Teaching policy analysis with a blog
+Below is the draft introduction to a paper that I am writing for a Special Issue paper on Teaching Policy Analysis for Gestión y Análisis de Políticas 
+Públicas (GAPP) (here is the version with the references if you want to sing along).
+
+When we teach policy analysis, we can focus on how to be a policy analyst or how to situate the act of policy analysis within a much wider policymaking context. 
+Ideally, we would teach and learn about both. Indeed, this aim is central to Lasswell’s vision for the policy sciences, in which the analysis of policy (and policymaking) 
+informs analysis for policy, and both are essential to the pursuit of equality and dignity.
+
+There is the potential to achieve this vision for the policy sciences. Policy analysis texts focus on the individual and professional skills required to act efficiently and effectively 
+in a time-pressured political environment. Further, they are supported by the study of policy analysts to reflect on how analysis takes place, and policy is made, in the real world.
+
+The next step would be to harness the wealth of policy concept- and theory-informed studies to help understand how real world contexts inform policy analysis insights.
+ First, for example, almost all mainstream studies assume or demonstrate that there is no such thing as a policy cycle with clearly-defined and well-ordered stages of policymaking, 
+from defining problems and generating solutions to evaluating their effect. If so, how can policy analysts understand their far more complex policymaking environment, 
+and what skills and strategies do they need to develop to engage effectively? Indeed, these discussions may be essential to preventing the demoralisation of analysts: if they do not 
+learn in advance about the processes and factors than can minimise their influence, how can they generate realistic expectations? Second, if the wider aim is human
+ equality and dignity, insights from critical policy analysis are essential. They help analysts think about what those concepts mean, how to identify and support marginalised
+ populations, and how policy analysis skills and techniques relate to those aims. In particular, they warn against treating policy analysis as a technocratic profession devoid 
+of politics, which may contribute to exclusive research gathering practices, producing too-narrow definitions of problems, insufficient consideration of feasible solutions, and 
+recommendations made about target populations without engaging with the people they claim to serve.
+
+However, this aim is much easier described than achieved. Policy analysis texts, focusing on how to do it, often use insights from policy studies.  However, they do so without 
+fully explaining key concepts and theories or exploring their implications. There is simply not enough time and space to do justice to every element, 
+from the technical tools of policy analysis (including cost-benefit analysis) to the empirical findings from policy theories and normative insights from critical policy analysis 
+approaches (e.g. Weimer and Vining, 2017 is already 500 pages long). Policy process research, focusing on what actually happens, may have practical implications for analysts. 
+However, they are often hidden behind layers of concepts and jargon, and – with notable exceptions – their authors seem uninterested in describing the normative importance of,
+ or practical lessons from, theory-informed empirical studies. Further, the cumulative size of this research is overwhelming and beyond the full understanding of experienced 
+specialist scholars. Indeed, it is even difficult to recommend a small number of texts to sum up each approach, which makes it difficult to predict how much time and energy it 
+would take to understand this field, and therefore to demonstrate the payoff from that investment. Further, critical policy analysis is essential, but often ignored in policy 
+analysis texts, and the potential for meaningful conversations with mainstream policy scholars remains largely untapped or resisted .
+
+In that context, policy analysis students embody the problem of ‘bounded rationality’ described famously by Simon. Indeed, Simon’s phrase ‘to satisfice’ sums up a goal-oriented 
+response to bounded rationality: faced with the inability to identify, process, or understand all relevant information, they must seek ways to gather enough information to 
+inform ‘good enough’ choices. Further, since then, policy studies have sought to incorporate insights from individual human, social, and organisational psychology to 
+understand (1) the other cognitive shortcuts that humans use, including gut-level instinct, habit, familiarity with an issue, deeply-held beliefs, and emotions,
+ and (2) their organisations equivalents (since organisations also use rules and standard operating procedures to close off information searches and limit analysis).
+ Human cognitive shortcuts can be described negatively as cognitive biases or more positively as ‘fast and frugal heuristics’. However, 
+the basic point remains: if people draw on allegedly ‘rational’ and ‘irrational’ shortcuts to information, we need to find ways to adapt to their ways of thinking, 
+rather than holding onto an idealised version of humans (and policymaking organisations) that do not exist in the real world .
+
+While these insights focus generally on policymakers, they are also essential to engaging with students. Gone – I hope – are the days of lecturers giving students an 
+overwhelmingly huge reading list and expecting them to devour every source before each class, which may help some students but demoralise many others (especially since
+ it seems inevitable that most students’ first engagement with specialist texts and technical jargon will already induce fears about their own ignorance). In their place should be
+ a thoughtful exploration of how much students can actually learn about the wider policy analysis context, focusing on (1) the knowledge and skills they
+ already possess, (2) the time they have to learn, and (3) how new knowledge or skills would relate to their ambitions. If students are seeking fast and frugal heuristics 
+to learn about policy analysis, how should we help them, and what should we teach?
+
+To help answer such questions, first I describe the rationale for the blog that I developed in tandem with teaching public policy, initially at an undergraduate 
+level as part of a wider politics programme, before developing a Master of Public Policy and contributing to shorter executive courses or one-off workshops. 
+This range matters, since the answer to the question ‘what can students learn?’ will vary according to their existing knowledge and time. 
+Second, I describe some examples of the valuable intersection between policy analysis, policy process research, and critical policy analysis 
+to demonstrate the potential payoffs to wider insights. Third, I summarise the rationale for the coursework that I use to foster public policy knowledge and 
+policy analysis skills, including skills in critical thinking and reflection to accompany more specialist analytical skills.
